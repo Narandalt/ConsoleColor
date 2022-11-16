@@ -1,4 +1,4 @@
-# TextColor
+# Console Color
 Меняет цвет текста консоли
 
 - Вид функции: clrPrint(*__format, color, ...);
